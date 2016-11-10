@@ -78,9 +78,9 @@
 </div>
 
 <div class="widget">
-    <div class="widget-heading">
+    <!-- <div class="widget-heading">
         <h4>Tags</h4>
-    </div>
+    </div> -->
     <div class="widget-body">
         <ul class="tags">
             <li><a href="#">PHP</a></li>
